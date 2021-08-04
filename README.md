@@ -17,7 +17,7 @@
   </tr>
   <tr>
    <td>https://127.0.0.1:3000/</td>
-   <td>https://127.0.0.1/3000api</td>
+   <td>https://127.0.0.1:3000/api</td>
   </tr>
 </table>
 
